@@ -1,0 +1,3 @@
+bot/config.php
+storage/*.sqlite
+storage/*.db

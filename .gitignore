@@ -1,3 +1,5 @@
 bot/config.php
 storage/*.sqlite
 storage/*.db
+
+storage/*.sqlite-*
